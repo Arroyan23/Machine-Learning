@@ -12,23 +12,22 @@
 
 ---
 
-## 📌 Tentang Repo Ini
+## 📌 About This Repo
 
-Repository ini berisi eksplorasi dan eksperimen **Machine Learning** untuk memprediksi harga rumah menggunakan dataset dari kompetisi **[Kaggle – House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)**.
+This repository contains Machine Learning explorations and experiments to predict house prices using the dataset from the Kaggle – House Prices: Advanced Regression Techniques competition.**.
 
-Tujuan utamanya adalah membangun model regresi yang mampu memprediksi `SalePrice` seakurat mungkin, sambil belajar dan bereksperimen dengan berbagai teknik data preprocessing, feature engineering, dan model tuning. 🚀
+The main goal is to build a regression model capable of predicting `SalePrice` as accurately as possible, while learning and experimenting with various data preprocessing techniques, feature engineering, and model tuning 🚀
 
 ---
 
-## 🧠 Apa yang Dipelajari & Dikerjakan
-
-- 🔍 **Exploratory Data Analysis (EDA)** — analisis korelasi fitur terhadap `SalePrice`
-- 🧹 **Data Cleaning** — handling missing values, encoding kolom kategorikal
-- 🏷️ **Feature Engineering** — seleksi fitur numerik & kategorikal paling berpengaruh
-- 🔢 **Encoding Techniques** — Ordinal Encoding & One-Hot Encoding
-- 🌲 **Modeling** — `DecisionTreeRegressor`, `RandomForestRegressor`
-- 🎯 **Hyperparameter Tuning** — `GridSearchCV`, `RandomizedSearchCV`
-- 📊 **Evaluation** — Mean Absolute Error (MAE) sebagai metrik utama
+🧠 What Was Learned & Done
+🔍 Exploratory Data Analysis (EDA) — analyzing feature correlations with `SalePrice`
+🧹 Data Cleaning — handling missing values, encoding categorical columns
+🏷️ Feature Engineering — selecting the most influential numerical & categorical features
+🔢 Encoding Techniques — Ordinal Encoding & One-Hot Encoding
+🌲 Modeling — `DecisionTreeRegressor`, `RandomForestRegressor`
+🎯 Hyperparameter Tuning — GridSearchCV, RandomizedSearchCV
+📊 Evaluation — `Mean Absolute Error (MAE)` as the primary metric
 
 ---
 
@@ -36,11 +35,11 @@ Tujuan utamanya adalah membangun model regresi yang mampu memprediksi `SalePrice
 
 | Kategori | Tools |
 |---|---|
-| Bahasa | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| Language | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | Environment | ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) |
 | Data | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) |
 | ML | ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
 
 ---
 
-## 📂 Struktur Project
+## 📂 project Structure
