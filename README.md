@@ -20,14 +20,14 @@ The main goal is to build a regression model capable of predicting `SalePrice` a
 
 ---
 
-🧠 What Was Learned & Done
-🔍 Exploratory Data Analysis (EDA) — analyzing feature correlations with `SalePrice`
-🧹 Data Cleaning — handling missing values, encoding categorical columns
-🏷️ Feature Engineering — selecting the most influential numerical & categorical features
-🔢 Encoding Techniques — Ordinal Encoding & One-Hot Encoding
-🌲 Modeling — `DecisionTreeRegressor`, `RandomForestRegressor`
-🎯 Hyperparameter Tuning — GridSearchCV, RandomizedSearchCV
-📊 Evaluation — `Mean Absolute Error (MAE)` as the primary metric
+## 🧠 What Was Learned & Done
+- 🔍 Exploratory Data Analysis (EDA) — analyzing feature correlations with `SalePrice`
+- 🧹 Data Cleaning — handling missing values, encoding categorical columns
+- 🏷️ Feature Engineering — selecting the most influential numerical & categorical features
+- 🔢 Encoding Techniques — Ordinal Encoding & One-Hot Encoding
+- 🌲 Modeling — `DecisionTreeRegressor`, `RandomForestRegressor`
+- 🎯 Hyperparameter Tuning — GridSearchCV, RandomizedSearchCV
+- 📊 Evaluation — `Mean Absolute Error (MAE)` as the primary metric
 
 ---
 
